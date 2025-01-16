@@ -58,7 +58,7 @@ This project is a simple AI-powered chatbot application built using OpenAI's API
 - Limited by the quota of your OpenAI API key.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the `LICENSE` file for more detail.
 
 ## Contributing
 Feel free to fork this repository and submit pull requests with enhancements or bug fixes. For major changes, please open an issue first to discuss your ideas.
