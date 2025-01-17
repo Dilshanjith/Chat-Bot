@@ -47,12 +47,6 @@ This project is a simple AI-powered chatbot application built using OpenAI's API
 3. Click the "Ask" button to send the query to the chatbot.
 4. View the chatbot's response in the "Answer" section.
 
-## Screenshots
-
-### Main Interface
-
-![Chatbot GUI](path-to-screenshot.png)
-
 ## Limitations
 - Requires an active internet connection to interact with OpenAI's API.
 - Limited by the quota of your OpenAI API key.
